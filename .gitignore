@@ -1,0 +1,11 @@
+# Виртуальное окружение (полностью)
+.venv/
+
+# Кэш pytest
+.pytest_cache/
+
+# Кэш Python
+__pycache__/
+
+# Настройки IDE (опционально)
+.vscode/
